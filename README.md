@@ -135,7 +135,7 @@ The success of the first version led other teams to request similar solutions fo
 
 ## From Experiment to Wider Adoption
 
-![SMS Communication Evolution](images/sms-app-evolution.png)
+![SMS Communication Evolution](images/SMS-app-evolution.png)
 
 What started as a single use case became a reusable solution that could be adapted for different teams and communication needs.
 
